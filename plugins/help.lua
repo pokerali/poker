@@ -80,7 +80,7 @@ function run(msg, matches)
 
 .......................................
 📡
-- @BeatBot_Team
+- @ashi_king_kaboos
 .......................................]]
     if matches[1] == 'help' and is_sudo(msg) then
       send_large_msg("user#id"..msg.from.id, help)      
